@@ -1,6 +1,6 @@
 # MilanSilkMills-Ecom
 
-Welcome to the MilanSilkMills-Ecom repository! This project is an e-commerce website for Milan Silk Mills, showcasing their range of premium silk products. This README provides an overview of the project, how to set it up, and how to contribute.
+Welcome to the MilanSilkMills-Ecom repository! This project is an e-commerce website for Milan Silk Mills, showcasing its range of premium silk products. This README provides an overview of the project, how to set it up, and how to contribute.
 
 ## Table of Contents
 
@@ -8,8 +8,7 @@ Welcome to the MilanSilkMills-Ecom repository! This project is an e-commerce web
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 
 - Browse a variety of silk products, including sarees, dress materials, and more.
@@ -36,7 +35,7 @@ These instructions will help you set up and run the project on your local machin
    1. Install server dependencies:
    cd server
    npm install
-   2.Install client dependencies:
+   2. Install client dependencies:
    cd client
    npm install
 
